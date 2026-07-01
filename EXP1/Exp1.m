@@ -1,0 +1,22 @@
+clc;
+clear;
+close all;
+disp('Welcome to MATLAB');
+A=[1 2 3;
+    4 5 6;
+    7 8 9];
+disp('Matrix A');
+disp(A);
+B=A+5;
+disp('Matrix B');
+disp(B);
+x=0:0.1:10;
+y=sin(x);
+figure;
+plot(x,y,'LineWidth',2);
+grid on;
+xlabel('X-axis');
+ylabel('sin(x)');
+title('Sine Wave');
+disp('Installed MATLAB Toolboxes');
+vere
