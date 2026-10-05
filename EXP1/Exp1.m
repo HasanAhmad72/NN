@@ -19,4 +19,3 @@ xlabel('X-axis');
 ylabel('sin(x)');
 title('Sine Wave');
 disp('Installed MATLAB Toolboxes');
-vere
